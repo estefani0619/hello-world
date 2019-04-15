@@ -1,2 +1,3 @@
 # hello-world
-new thing
+
+starting out and hoping I don't suck!
